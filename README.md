@@ -1,6 +1,7 @@
 # Hybrid Deep Learning Model for Forex Forecasting
 
-This project is a final year project that aims to forecast the closing price of currency pairs through deep learning techniques. Specifically, hybrid deep learning models were developed and compared with their component models. The proposed models were CNN-LSTM, CNN-RNN, LSTM, SRNN and CNN. SRNN and LSTM's are utilized for sequence predictions whereas CNN's for feature extraction.\ 
+This project is a final year project that aims to forecast the closing price of currency pairs through deep learning techniques. Specifically, hybrid deep learning models were developed and compared with their component models. The proposed models were CNN-LSTM, CNN-RNN, LSTM, SRNN and CNN. SRNN and LSTM's are utilized for sequence predictions whereas CNN's for feature extraction.
+
 Key Techniques: Rolling Cross-Validation, Hyperparameter Tuning, Pruning, Feature Engineering, EDA, Dickey-Fuller Test, ROC AUC
 
 --------------
